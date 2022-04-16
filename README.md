@@ -1,7 +1,7 @@
-### Hey, I'm Frank!
+### Hey, I'm Frank! *(he/him)*
 
 :bike:  I'm an avid cyclist and working courier in NYC with a love for data and coding!<br>
-:eyeglasses: Pronouns (he/him)<br>
+<br>
 
 <img alt="contact" src="https://img.shields.io/badge/-contact%3A-lightgrey?style=flat-square">&nbsp;
 <a href="mailto: frankiebucalo@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -14,7 +14,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 <br>
 
-<img alt="coding" src="https://img.shields.io/badge/-data%3A-lightgrey?style=flat-square">&nbsp;
+<img alt="coding" src="https://img.shields.io/badge/-coding%3A-lightgrey?style=flat-square">&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
