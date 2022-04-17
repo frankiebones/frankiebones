@@ -25,6 +25,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 <br>
    
-![frankiebones's github stats](https://github-readme-stats.vercel.app/api/?username=frankiebones&count_private=true&theme=tokyonight&showicons=true)
+![frankiebones's github stats](https://github-readme-stats.vercel.app/api/?username=frankiebones&count_private=true&theme=tokyonight&showicons=true&hide=stars,prs,issues,contribs)
 
 
