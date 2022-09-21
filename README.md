@@ -1,6 +1,6 @@
 ### Hey, I'm Frank! *(he/him)*
 
-:bike:  I'm an avid cyclist and working courier in NYC with a love for data and coding!<br>
+:bike:  I'm an avid cyclist and courier in NYC with a love for data, what it can tell us and how it can be used for good!<br>
 <br>
 
 <img alt="contact" src="https://img.shields.io/badge/-contact%3A-lightgrey?style=flat-square">&nbsp;
