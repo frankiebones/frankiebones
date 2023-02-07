@@ -18,12 +18,11 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 <br>
 
-<img alt="coding" src="https://img.shields.io/badge/-coding%3A-lightgrey?style=flat-square">&nbsp;
+<img alt="web" src="https://img.shields.io/badge/-web%3A-lightgrey?style=flat-square">&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=Leaflet&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 <br> 
 
 <img alt="devops" src="https://img.shields.io/badge/-devops%3A-lightgrey?style=flat-square">&nbsp;
