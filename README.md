@@ -3,7 +3,7 @@
 :bike:  I'm an avid cyclist and courier in NYC with a love for data, what it can tell us and how it can be used for good!<br>
 <br>
 Currently working on:
-- Analyzing blocked bike lane violations to determine how NYC can improve cycling infrastructure without disrupting commercial delivery.
+- Analyzing blocked bike lane violations to improve cycling infrastructure without disrupting commercial delivery.
 <br>
 
 <img alt="contact" src="https://img.shields.io/badge/-contact%3A-lightgrey?style=flat-square">&nbsp;
