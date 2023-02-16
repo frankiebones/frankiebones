@@ -1,9 +1,14 @@
 ### Hey, I'm Frank! *(he/him)*
 
-:bike:  I'm an avid cyclist and courier in NYC with a love for data, what it can tell us and how it can be used for good!<br>
+- :bike:  I'm an avid cyclist and courier in NYC with a love for data, what it can tell us and how it can be used for good!<br>
 <br>
+
 Currently working on:
 - :truck: Analyzing blocked bike lane violations to improve cycling infrastructure without disrupting commercial delivery.
+<br>
+
+Currently learning:
+- :mag: Polars https://www.pola.rs/ - while I still love pandas, I'm always curious to see what other amazing projects are going out there!
 <br>
 
 <img alt="contact" src="https://img.shields.io/badge/-contact%3A-lightgrey?style=flat-square">&nbsp;
