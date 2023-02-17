@@ -9,6 +9,7 @@ Currently working on:
 
 Currently learning:
 - :mag: Polars https://www.pola.rs/ - while I still love pandas, I'm always curious to see what other amazing projects are going out there!
+- :chart_with_upwards_trend: Panel https://panel.holoviz.org/ - boosting my Python specific dashboard game. 
 <br>
 
 <img alt="contact" src="https://img.shields.io/badge/-contact%3A-lightgrey?style=flat-square">&nbsp;
