@@ -15,6 +15,7 @@ Currently learning:
 <img alt="contact" src="https://img.shields.io/badge/-contact%3A-lightgrey?style=flat-square">&nbsp;
 <a href="mailto: frankiebucalo@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/frank-bucalo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://frankiebones.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-88C6A7?style=flat-square&logo=google%20analytics&logoColor=white"></a>
 <br>
  
 <img alt="data" src="https://img.shields.io/badge/-data%3A-lightgrey?style=flat-square">&nbsp;
